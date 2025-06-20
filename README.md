@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaraprins&label=Profile%20views&color=0e75b6&style=flat" alt="yaraprins"/> </p>
 
 <section>
-  <h1>👋 Hi, I’m Yara,<h1>
+  <h1>👋 Hi, I’m Yara</h1>
   <p>I'm a Front-End Developer, UX/UI Designer and enthousiast of all things nerdy. I recently graduated the study Communication & Multimedia Design on the Amsterdam University of Applied Sciences. I have a minor in Applied Game Design, where I have worked with Unity, Blender and have backgrounds in game theory and design. I have a love for both desig and coding, and I'm also always eager to learn more. </p>
   <p>I'm very enthusiastic, positive, social and a kind person and always in for a bit of banter. Generally speaking though, I'm just a massive nerd. Besides coding and designing, I love playing Dungeons & Dragons, watching Lord of the Rings and Star Wars, playing games such as Assassins Creed, Portal, Life is Strange, The Last of Us and more. I listen to a ton of different music, and I love going to concerts.</p>
 </section>
